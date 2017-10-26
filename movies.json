@@ -51,6 +51,33 @@
     "description" : "Darth Vader and the Empire are building a new, indestructible Death Star. Meanwhile, Han Solo has been imprisoned, and Luke Skywalker has sent R2-D2 and C-3PO to try and free him. Princess Leia - disguised as a bounty hunter - and Chewbacca go along as well. The final battle takes place on the moon of Endor, with its natural inhabitants, the Ewoks, lending a hand to the Rebels. Will Darth Vader and the Dark Side overcome the Rebels and take over the universe?",
     "poster" : "star_wars_episode_6_poster.png",
     "hero_image" : "star_wars_episode_6_hero.jpg"
+  },
+
+  {
+    "title" : "Star Wars: Episode VII - The Force Awakens",
+    "episode_number" : "7",
+    "main_characters" : ["Han Solo", "Luke Skywalker", "Princess Leia Organa", "Kylo Ren", "Rey", "Finn", "Poe Dameron", "Supreame Leader Snoke"],
+    "description" : "30 years after the defeat of Darth Vader and the Empire, Rey, a scavenger from the planet Jakku, finds a BB-8 droid that knows the whereabouts of the long lost Luke Skywalker. Rey, as well as a rogue stormtrooper and two smugglers, are thrown into the middle of a battle between the Resistance and the daunting legions of the First Order.",
+    "poster" : "star_wars_episode_7_poster.png",
+    "hero_image" : "star_wars_episode_7_hero.jpg"
+  },
+
+  {
+    "title" : "Star Wars: Episode VIII – The Last Jedi",
+    "episode_number" : "8",
+    "main_characters" : ["Luke Skywalker", "Princess Leia Organa", "Kylo Ren", "Rey", "Finn", "Poe Dameron", "Supreame Leader Snoke"],
+    "description" : "Luke Skywalker's peaceful and solitary existence gets upended when he meets Rey, a young woman who shows strong signs of the Force.",
+    "poster" : "star_wars_episode_8_poster.png",
+    "hero_image" : "star_wars_episode_8_hero.jpg"
+  },
+
+  {
+    "title" : "Star Wars: Episode IX – Untitled",
+    "episode_number" : "9",
+    "main_characters" : ["Unknown"],
+    "description" : "Film under production. Release date: 2019",
+    "poster" : "star_wars_episode_9_poster.png",
+    "hero_image" : "star_wars_episode_9_hero.jpg"
   }]
 
 }
