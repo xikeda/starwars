@@ -1,0 +1,76 @@
+{
+  "books": [{
+    "title" : "Star Wars: Obi-Wan & Anakin (Comic Series)",
+    "cannon_number" : "1",
+    "main_characters" : ["Obi-Wan Kenobi", "Anakin Skywalker"],
+    "description" : "Before their military heroism in the Clone Wars, before their tragic battle on Mustafar, and many decades before their final confrontation on the Death Star… they were Master Obi-Wan Kenobi and his Padawan learner, Anakin Skywalker. It's been a few years since Obi-Wan pledged to train the young boy, but even as they have grown closer through training, it has been a difficult road. Now, called to a remote planet for assistance, Master and Padawan may be pushed to the breaking point.",
+    "poster" : "books_1.png",
+    "hero_image" : "star_wars_comic_1_hero.jpg"
+  },
+  {
+  "title" : "Star Wars: Kanan - The Last Padawan (Comic Series)",
+  "cannon_number" : "2",
+  "main_characters" : ["Kanan Jarrus"],
+  "description" : "Kanan Jarrus: In Star Wars Rebels, he's a cocky, sarcastic renegade fighting against the Galactic Empire alongside the ragtag crew of the Ghost. But years before, at the height of the Clone Wars, he was known as Caleb Dume, Jedi Padawan under the instruction of Jedi Master Depa Billaba. Neither master nor apprentice ever suspected that the Clone Troopers they commanded would turn on them upon the issuing of Order 66, the order to execute all Jedi. How did Caleb Dume survive? How did he learn to survive on his own? And how did he become the man we know as Kanan Jarrus?",
+  "poster" : "books_2.png",
+  "hero_image" : "star_wars_comic_2_hero.jpg"
+},
+{
+  "title" : "Star Wars: Lords of the Sith (Novel)",
+  "cannon_number" : "3",
+  "main_characters" : ["Darth Vader", "The Emperor"],
+  "description" : "Anakin Skywalker, Jedi Knight, is just a memory. Darth Vader, newly anointed Sith Lord, is ascendant. The Emperor's chosen apprentice has swiftly proven his loyalty to the dark side. Still, the history of the Sith Order is one of duplicity, betrayal, and acolytes violently usurping their Masters—and the truest measure of Vader's allegiance has yet to be taken. Until now.",
+  "poster" : "books_3.png",
+  "hero_image" : "star_wars_comic_3_hero.jpg"
+},
+{
+  "title" : "Star Wars: Tarkin (Novel)",
+  "cannon_number" : "4",
+  "main_characters" : ["Tarkin", "Darth Vader", "The Emperor"],
+  "description" : "He’s the scion of an honorable and revered family. A dedicated soldier and distinguished legislator. Loyal proponent of the Republic and trusted ally of the Jedi Order. Groomed by the ruthless politician and Sith Lord who would be Emperor, Governor Wilhuff Tarkin rises through the Imperial ranks, enforcing his authority ever more mercilessly… and zealously pursuing his destiny as the architect of absolute dominion. Rule through the fear of force rather than force itself, he advises his Emperor. Under Tarkin's guidance, an ultimate weapon of unparalleled destruction moves ever closer to becoming a terrifying reality. When the so-called Death Star is completed, Tarkin is confident that the galaxy's lingering pockets of Separatist rebellion will be brought to heel—by intimidation… or annihilation. Until then, however, insurgency remains a genuine threat. Escalating guerrilla attacks by resistance forces and newfound evidence of a growing Separatist conspiracy are an immediate danger the Empire must meet with swift and brutal action. And to bring down a band of elusive freedom fighters, the Emperor turns to his most formidable agents: Darth Vader, the fearsome new Sith enforcer as remorseless as he is mysterious; and Tarkin—whose tactical cunning and cold-blooded efficiency will pave the way for the Empire's supremacy… and its enemies' extinction",
+  "poster" : "books_4.png",
+  "hero_image" : "star_wars_comic_4_hero.jpg"
+},
+{
+  "title" : "Star Wars: A New Dawn (Novel)",
+  "cannon_number" : "5",
+  "main_characters" : ["Kanan Jarrus", "Hera Syndulla"],
+  "description" : "Ever since the Jedi were marked for death and forced to flee Coruscant, Kanan Jarrus has devoted himself to staying alive rather than serving the Force. Wandering the galaxy alone, from one anonymous job to another, he avoids trouble—especially with the Empire—at all costs. So when he discovers a deadly conflict brewing between ruthless Imperial forces and desperate revolutionaries, he's not about to get caught in the crossfire. Then the brutal death of a friend at the Empire's hands forces the ex-Jedi to make a choice: bow down to fear, or stand up and fight. But Jarrus won't be fighting alone. Unlikely allies, including a bomb-throwing radical, a former Imperial surveillance agent, a vengeful security officer, and the mysterious Hera Syndulla—an agent provocateur with motives of her own—team up with Jarrus to challenge the Empire. As a crisis of apocalyptic proportions unfolds on the planet Gorse, they must stand together against one of the Empire's most fearsome enforcers—for the sake of a world and its people.",
+  "poster" : "books_5.png",
+  "hero_image" : "star_wars_comic_5_hero.jpg"
+},
+{
+  "title" : "Star Wars: Princesss Leia (Comic Series)",
+  "cannon_number" : "6",
+  "main_characters" : ["Princess Leia", "Evann Verlainem", "R2-D2"],
+  "description" : "At the medal ceremony at the end of Star Wars: A New Hope, Princess Leia of Alderaan says a few words in remembrance of her destroyed planet, but is criticized her seeming lack of emotion. She learns that the Empire is hunting any surviving citizens of Alderaan, and the bounty on her own head precludes her from actively participating with the Rebellion. Leia convinces the Rebel pilot and royalist Evaan Verlainem to accompany her and R2-D2 on a mission to find and protect the remaining Alderaanians. X-wing fighter pilots Luke Skywalker and Wedge Antilles pursue them, but the trio escape to Naboo.",
+  "poster" : "books_6.png",
+  "hero_image" : "star_wars_comic_6_hero.jpg"
+},
+{
+  "title" : "Star Wars: Chewbacca (Comic Series)",
+  "cannon_number" : "7",
+  "main_characters" : ["Chewbacca"],
+  "description" : "It is a period of renewed hope for the rebellion. The evil galactic Empire's greatest weapon, the Death Star, has been destroyed by Chewbacca, warrior son of the planet Kashyyyk...with some help from his trusty sidekick Han and his friends Luke and Leia. But Chewie is not one to grandstand. There is still much to accomplish. The Battle of Yavin reverberates through the galaxy as our WOOKIEE hero embarks on a very important and personal secret mission. Unfortunately for Chewbacca, his loaner spacecraft proves to be what they refer to in the Outer Rim as a hunk of junk...",
+  "poster" : "books_7.png",
+  "hero_image" : "star_wars_comic_7_hero.jpg"
+},
+{
+  "title" : "Star Wars: Darth Vader (Comic Series)",
+  "cannon_number" : "8",
+  "main_characters" : ["Darth Vader", "The Emperor", "Boba Fett"],
+  "description" : "It is a period of insurgence. Rebel spaceships, striking from a hidden base on a moon of Yavin, have won a shocking surprise victory against the rightful reign of the Galactic Empire. The Empire's ultimate peacekeeping force, The Death Star, was destroyed due to an unforeseen design flaw. Without this deterrent, the rule of law is in danger. Chaos looms! For the nineteen years after the vanquishing of the Jedi and his painful rebirth on volcanic Mustafar, Sith Lord Darth Vader has faithfully served his master. But now, he has failed the Emperor and must pay the price....",
+  "poster" : "books_8.png",
+  "hero_image" : "star_wars_comic_8_hero.jpg"
+},
+{
+  "title" : "Star Wars: A Marvel Comic Series",
+  "cannon_number" : "9",
+  "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Darth Vader", "C-3P0", "Chewbacca", "The Emperor", "Boba Fett"],
+  "description" : "Luke Skywalker and the ragtag rebels opposing the Galactic Empire are fresh off their biggest victory so far – the destruction of the massive Death Star. But the Empire's not toppled yet! Join Luke, Princess Leia, Han Solo, Chewbacca, C-3PO, R2-D2 and the rest of the Rebel Alliance as they fight for freedom against Darth Vader and his evil master, the Emperor! But when a Rebel assault goes wrong, Han and Leia must think fast to make their escape – while Luke comes face-to-face with Darth Vader! In the explosive aftermath, a humbled Luke returns to Tatooine to learn more about his mentor, Obi-Wan Kenobi. Meanwhile, Leia and Han undertake a vital – and dangerous – secret mission. But can they succeed without Luke? Plus: the menace of Boba Fett! ",
+  "poster" : "books_9.png",
+  "hero_image" : "star_wars_comic_9_hero.png"
+}
+]
+
+}

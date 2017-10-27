@@ -17,6 +17,12 @@ app.get('/', routes.home);
 // Movie Single
 app.get('/starwars_episode/:episodenumber?', routes.movie_single);
 
+// Books
+app.get('/books', routes.books);
+
+// Movie Single
+app.get('/books/:cannon_number?', routes.book_single);
+
 // Not Found - 404
 app.get('*', routes.notFound);
 

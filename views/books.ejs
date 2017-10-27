@@ -15,13 +15,13 @@
 
     <div id="posters-wrapper" class="content-padding clearfix">
 
-      <% for (var i = 0; i < movies.length; i++){ %>
+      <% for (var i = 0; i < books.length; i++){ %>
         <div class="poster">
-          <a href="/starwars_episode/<%= movies[i].episode_number %>">
-          <img src="/images/<%= movies[i].poster %>" class="img-responsive">
+          <a href="books/<%= books[i].cannon_number %>">
+          <img src="/images/<%= books[i].poster %>" class="img-responsive">
 
           <div class="poster-info-overlay">
-            <h3><%= movies[i].title %></h3>
+            <h3><%= books[i].title %></h3>
             <h4>View More <i class="fa fa-arrow-right"></i></h4>
           </div>
           </a>

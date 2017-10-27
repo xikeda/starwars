@@ -2,14 +2,31 @@
 
   <div class="content-padding">
     <ul class="nav navbar-nav navbar-left">
+
+
       <li><a href="/">Home</a></li>
-      <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"> Movies <i class="fa fa-chevron-down"></i></a>
+
+
+      <li class="dropdown" href="/">
+        <a href="/" class="dropdown-toggle" data-toggle="dropdown"> Movies <i class="fa fa-chevron-down"></i></a>
       <ul class="dropdown-menu">
         <% for (var i=0; i< movies.length; i++){ %>
           <li><a href="/starwars_episode/<%= i + 1 %>" class="episode_link"><%= movies[i].title %></a></li>
         <% } %>
       </ul>
       </li>
+
+      <li class="dropdown"><a href="/books" class="dropdown-toggle" data-toggle="dropdown"> Books <i class="fa fa-chevron-down"></i></a>
+      <ul class="dropdown-menu">
+        <% for (var i=0; i< books.length; i++){ %>
+          <li><a href="/books/<%= i + 1 %>" class="episode_link"><%= books[i].title %></a></li>
+        <% } %>
+      </ul>
+      </li>
+
+      <!--
+      <li><a href="#">Books <i class="fa fa-chevron-down"></i></a></li>
+      <li><a href="#">Other <i class="fa fa-chevron-down"></i></a></li> -->
     </ul>
   </div>
 </nav>

@@ -21,7 +21,7 @@ Hero Image / Title Styles
 	height: 550px;
 	width: 100%;
 	background-color: #444;
-	background-image: url('../images/death_star_image.jpg');
+	background-image: url('../images/starwarsc.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -38,7 +38,7 @@ Hero Image / Title Styles
 	content: "";
 }
 
-#hero-image #hero-title {
+#hero-image #hero-title-movies {
 	position: absolute;
 	background-color: #fff;
 	padding: 25px 60px;
@@ -57,9 +57,43 @@ Hero Image / Title Styles
   letter-spacing: 0.4px;
 }
 
+#hero-image #hero-title-books {
+	position: absolute;
+	background-color: #fff;
+	padding: 25px 60px;
+	left: 50%;
+	-webkit-transform: translateX(-195%);
+	-moz-transform: translateX(-195%);
+	-o-transform: translateX(-195%);
+	-ms-transform: translateX(-195%);
+  transform: translateX(-195%);
 
+  bottom: 0;
+  margin: 0px;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 1.20em;
+  letter-spacing: 0.4px;
+}
 
+#hero-image #hero-title-other {
+	position: absolute;
+	background-color: #fff;
+	padding: 25px 60px;
+	left: 50%;
+	-webkit-transform: translateX(95%);
+	-moz-transform: translateX(95%);
+	-o-transform: translateX(95%);
+	-ms-transform: translateX(95%);
+  transform: translateX(95%);
 
+  bottom: 0;
+  margin: 0px;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 1.20em;
+  letter-spacing: 0.4px;
+}
 
 /* ---------------------------------------
 Navbar and Navigation Styles / Overrides
@@ -111,6 +145,7 @@ Home Page Posters Styles
 
 #posters-wrapper {
 	padding-top: 75px;
+	padding-right: 115px;
 }
 .poster {
 	width: 30%;
@@ -179,6 +214,10 @@ footer p {
 	letter-spacing: 0.3px;
 	font-size: 12px;
 	padding-bottom: 20px;
+}
+
+footer .middle-links {
+	text-align: center;
 }
 
 footer .social-media-icons {
